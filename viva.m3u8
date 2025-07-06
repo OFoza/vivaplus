@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CANAGRO" tvg-name="AGRO BRASIL" tvg-logo="https://files.catbox.moe/hlr45y.png" group-title="CANAIS ABERTOS",AGRO BRASIL
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/59.m3u8
+#EXTINF:-1 tvg-id="CANAGRO" tvg-name="AMAZON SAT" tvg-logo="https://files.catbox.moe/218uon.png" group-title="CANAIS ABERTOS",AMAZON SAT
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="ZYB515" tvg-name="BAND" tvg-logo="https://files.catbox.moe/kvan6s.png" group-title="CANAIS ABERTOS",BAND
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://files.catbox.moe/uul0th.png" group-title="CANAIS 24h",BOB ESPONJA
@@ -63,6 +65,8 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/16.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/23.m3u8
 #EXTINF:-1 tvg-id="ZYB516" tvg-name="RECORD TV" tvg-logo="https://files.catbox.moe/kvan6s.png" group-title="CANAIS ABERTOS",RECORD TV
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/13.m3u8
+#EXTINF:-1 tvg-id="ZYB516" tvg-name="RECORD TV ALT" tvg-logo="https://files.catbox.moe/kvan6s.png" group-title="CANAIS ABERTOS",RECORD TV ALT
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="RDVDAHD" tvg-name="REDE VIDA EDUCACAO" tvg-logo="https://files.catbox.moe/1skxsy.png" group-title="CANAIS ABERTOS",REDE VIDA EDUCACAO
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/49.m3u8
 #EXTINF:-1 tvg-id="ZYB517" tvg-name="SBT" tvg-logo="https://files.catbox.moe/a35a7x.png" group-title="CANAIS ABERTOS",SBT

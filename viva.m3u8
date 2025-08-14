@@ -35,6 +35,8 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/9.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/79.m3u8
 #EXTINF:-1 tvg-id="GLBRJHD" tvg-name="GLOBO" tvg-logo="https://files.catbox.moe/r5nfgf.png" group sighting-title="CANAIS ABERTOS",GLOBO
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1.m3u8
+#EXTINF:-1 tvg-name="Globo" tvg-logo="https://files.catbox.moe/r5nfgf.png" group-title="",GLOBO RPC Curitiba
+http://meucb.top:80/douglas20102010/Ss12345678/72626.m3u8
 #EXTINF:-1 tvg-id="JPNEWS" tvg-name="JOVEM PAN NEWS" tvg-logo="https://files.catbox.moe/74hklp.png" group-title="CANAIS ABERTOS",JOVEM PAN NEWS 
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/57.m3u8
 #EXTINF:-1 tvg-id="JPNEWS" tvg-name="JOVEM PAN NEWS ALT" tvg-logo="https://files.catbox.moe/74hklp.png" group-title="CANAIS ABERTOS",JOVEM PAN NEWS ALT

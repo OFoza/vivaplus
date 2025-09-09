@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CANAGRO" tvg-name="AGRO BRASIL" tvg-logo="https://files.catbox.moe/hlr45y.png" group-title="CANAIS ABERTOS",AGRO BRASIL
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/59.m3u8
 #EXTINF:-1 tvg-id="CANAGRO" tvg-name="AMAZON SAT" tvg-logo="https://files.catbox.moe/218uon.png" group-title="CANAIS ABERTOS",AMAZON SAT
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="ZYB515" tvg-name="BAND" tvg-logo="https://files.catbox.moe/kvan6s.png" group-title="CANAIS ABERTOS",BAND
@@ -9,6 +7,8 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/3.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/7.m3u8
 #EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL" tvg-logo="https://files.catbox.moe/9tnxd5.png" group-title="CANAIS ABERTOS",CANAL RURAL
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL UOL" tvg-logo="https://files.catbox.moe/97q26r.png" group-title="CANAIS ABERTOS",CANAL UOL
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/61.m3u8
 #EXTINF:-1 tvg-id="cançãonova.br" tvg-name="CANCAO NOVA" tvg-logo="https://files.catbox.moe/w2fl12.png" group-title="CANAIS ABERTOS",CANCAO NOVA
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="https://files.catbox.moe/1p3y5q.png" group-title="CANAIS ABERTOS",CAZE TV
@@ -75,8 +75,8 @@ https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-id="NOVOTHD" tvg-name="TV NOVO TEMPO" tvg-logo="https://files.catbox.moe/cgffgn.png" group-title="CANAIS ABERTOS",TV NOVO TEMPO
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/75.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://files.catbox.moe/uul0th.png" group-title="CANAIS 24h",BOB ESPONJA
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/120.m3u8
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/86.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR CLUB" tvg-logo="https://files.catbox.moe/alsi4a.png" group-title="CANAIS 24h",NICK JUNIOR CLUB
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PATRULHA CANINA" tvg-logo="https://files.catbox.moe/kocjnz.png" group-title="CANAIS 24h",PATRULHA CANINA
-https://gerenciar.vivatele.com:`,443/viva_padrao/viva2384/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG" tvg-logo="https://files.catbox.moe/fvktro.png" group-title="CANAIS 24h",PEPPA PIG
+https://gerenciar.vivatele.com:`,443/viva_padrao/viva2384/87.m3u8

@@ -31,7 +31,7 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/101.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/9.m3u8
 #EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="GAZETA" tvg-logo="https://files.catbox.moe/ctjhap.png" group-title="CANAIS ABERTOS",GAZETA
 https://live.eu-north-1b.cf.dmcdn.net/sec2(xAzG_tZ25gfFipjDy61s3LqkSpx_70p3jrboTLtW0xbI_Z0274j1ZtiD62iC8eRRKE4L7cQBPKMbmw1X8dsuoi87i0XtUunyqG0XC0XkCWqsHn0Esdblfc3SkuN1jpnd)/dm/3/x8ttlxm/s/live-1080.m3u8
-#EXTINF:-1 tvg-id="GLBRJHD" tvg-name="GLOBO" tvg-logo="https://files.catbox.moe/r5nfgf.png" group sighting-title="CANAIS ABERTOS",GLOBO
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://files.catbox.moe/r5nfgf.png" group-title="CANAIS ABERTOS",GLOBO
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1.m3u8
 #EXTINF:-1 tvg-id="JPNEWS" tvg-name="JOVEM PAN NEWS ALT" tvg-logo="https://files.catbox.moe/74hklp.png" group-title="CANAIS ABERTOS",JOVEM PAN NEWS FHD
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
@@ -69,7 +69,7 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/17.m3u8
 #EXTINF:-1 tvg-id="APARHD" tvg-name="TV APARECIDA ALT" tvg-logo="https://files.catbox.moe/win05f.png" group-title="CANAIS ABERTOS",TV APARECIDA ALT
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:-1 tvg-id="CNLBRSH" tvg-name="TV BRASIL" tvg-logo="https://files.catbox.moe/j7vq1f.png" group-title="CANAIS ABERTOS",TV BRASIL
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/18.m3u8
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_2300000=10000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="https://files.catbox.moe/cpoorz.png" group-title="CANAIS ABERTOS",TV Evangelizar
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-id="NOVOTHD" tvg-name="TV NOVO TEMPO" tvg-logo="https://files.catbox.moe/cgffgn.png" group-title="CANAIS ABERTOS",TV NOVO TEMPO

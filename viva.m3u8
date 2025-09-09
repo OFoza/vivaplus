@@ -31,8 +31,8 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/101.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/9.m3u8
 #EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="GAZETA" tvg-logo="https://files.catbox.moe/ctjhap.png" group-title="CANAIS ABERTOS",GAZETA
 https://live.eu-north-1b.cf.dmcdn.net/sec2(xAzG_tZ25gfFipjDy61s3LqkSpx_70p3jrboTLtW0xbI_Z0274j1ZtiD62iC8eRRKE4L7cQBPKMbmw1X8dsuoi87i0XtUunyqG0XC0XkCWqsHn0Esdblfc3SkuN1jpnd)/dm/3/x8ttlxm/s/live-1080.m3u8
-#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://files.catbox.moe/r5nfgf.png" group-title="CANAIS ABERTOS",GLOBO
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1.m3u8
+#EXTINF:-1 tvg-name="GLOBO RPC CURITIBA" tvg-logo="https://files.catbox.moe/r5nfgf.png" group-title="CANAIS ABERTOS",GLOBO RPC CURITIBA
+https://ns2.gmaplay.xyz:8080/live/tvonline323523562436/ffmNJdoBrY5gYZXQsJWrrZp4zC1U2oFu/62198.m3u8
 #EXTINF:-1 tvg-id="JPNEWS" tvg-name="JOVEM PAN NEWS ALT" tvg-logo="https://files.catbox.moe/74hklp.png" group-title="CANAIS ABERTOS",JOVEM PAN NEWS FHD
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-id="LONOHDV" tvg-name="LOVE NATURE" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="CANAIS ABERTOS",LOVE NATURE

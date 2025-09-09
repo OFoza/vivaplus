@@ -5,8 +5,6 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/59.m3u8
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="ZYB515" tvg-name="BAND" tvg-logo="https://files.catbox.moe/kvan6s.png" group-title="CANAIS ABERTOS",BAND
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://files.catbox.moe/uul0th.png" group-title="CANAIS 24h",BOB ESPONJA
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/120.m3u8
 #EXTINF:-1 tvg-id="CANBOI" tvg-name="CANAL DO BOI" tvg-logo="https://files.catbox.moe/m0bsie.png" group-title="CANAIS ABERTOS",CANAL DO BOI
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/7.m3u8
 #EXTINF:-1 tvg-id="canal.rural.br" tvg-name="CANAL RURAL" tvg-logo="https://files.catbox.moe/9tnxd5.png" group-title="CANAIS ABERTOS",CANAL RURAL
@@ -15,10 +13,10 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/89.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CAZE TV" tvg-logo="https://files.catbox.moe/1p3y5q.png" group-title="CANAIS ABERTOS",CAZE TV
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/102.m3u8
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL" tvg-logo="https://files.catbox.moe/n9umk1.png" group-title="CANAIS ABERTOS",CNN BRASIL
-https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
-#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL ALT" tvg-logo="https://files.catbox.moe/n9umk1.png" group-title="CANAIS ABERTOS",CNN BRASIL ALT
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL" tvg-logo="https://files.catbox.moe/n9umk1.png" group-title="CANAIS ABERTOS",CNN BRASIL FHD
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN BRASIL ALT" tvg-logo="https://files.catbox.moe/n9umk1.png" group-title="CANAIS ABERTOS",CNN BRASIL HD ALT
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="https://files.catbox.moe/krcw4v.png" group-title="CANAIS ABERTOS",COMEDY CENTRAL
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/116.m3u8
 #EXTINF:-1 tvg-id="CULTUHD" tvg-name="CULTURA" tvg-logo="https://files.catbox.moe/ktbdja.png" group-title="CANAIS ABERTOS",CULTURA
@@ -32,15 +30,11 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/101.m3u8
 #EXTINF:-1 tvg-id="FUTRAHD" tvg-name="FUTURA" tvg-logo="https://files.catbox.moe/393qsp.png" group-title="CANAIS ABERTOS",FUTURA
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/9.m3u8
 #EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="GAZETA" tvg-logo="https://files.catbox.moe/ctjhap.png" group-title="CANAIS ABERTOS",GAZETA
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/79.m3u8
+https://live.eu-north-1b.cf.dmcdn.net/sec2(xAzG_tZ25gfFipjDy61s3LqkSpx_70p3jrboTLtW0xbI_Z0274j1ZtiD62iC8eRRKE4L7cQBPKMbmw1X8dsuoi87i0XtUunyqG0XC0XkCWqsHn0Esdblfc3SkuN1jpnd)/dm/3/x8ttlxm/s/live-1080.m3u8
 #EXTINF:-1 tvg-id="GLBRJHD" tvg-name="GLOBO" tvg-logo="https://files.catbox.moe/r5nfgf.png" group sighting-title="CANAIS ABERTOS",GLOBO
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/1.m3u8
-#EXTINF:-1 tvg-name="Globo" tvg-logo="https://files.catbox.moe/r5nfgf.png" group-title="",GLOBO RPC Curitiba
-http://meucb.top:80/douglas20102010/Ss12345678/72626.m3u8
-#EXTINF:-1 tvg-id="JPNEWS" tvg-name="JOVEM PAN NEWS" tvg-logo="https://files.catbox.moe/74hklp.png" group-title="CANAIS ABERTOS",JOVEM PAN NEWS 
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/57.m3u8
-#EXTINF:-1 tvg-id="JPNEWS" tvg-name="JOVEM PAN NEWS ALT" tvg-logo="https://files.catbox.moe/74hklp.png" group-title="CANAIS ABERTOS",JOVEM PAN NEWS ALT
-https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 tvg-id="JPNEWS" tvg-name="JOVEM PAN NEWS ALT" tvg-logo="https://files.catbox.moe/74hklp.png" group-title="CANAIS ABERTOS",JOVEM PAN NEWS FHD
+https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-id="LONOHDV" tvg-name="LOVE NATURE" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="CANAIS ABERTOS",LOVE NATURE
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/72.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MASTER CHEF" tvg-logo="https://files.catbox.moe/58rvq7.png" group-title="CANAIS ABERTOS",MASTER CHEF
@@ -49,11 +43,8 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/115.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/98.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MANUAL DO MUNDO" tvg-logo="https://files.catbox.moe/q9df37.jpg" group-title="CANAIS ABERTOS",MANUAL DO MUNDO
 https://amg17288-offgrid-amg17288c2-lg-br-6103.playouts.now.amagi.tv/playlist/amg17288-offgridcreativecontentfast-manualdomundo-lgbr/cb56381b6570668984c32164d3f762ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa56852db80148b6f4adafb8c2360625f5c98435ee3b24aaafee30f4cda3ef0ac1941c37c58e68314c9c94ebd85d246cf128371f71d9dc6a58bd31888abab5ff803f17a0d5d34749a857097bb30dcb1a14d1caa580b63217cc29ea1112f56f72fc9e14b9eb1dd47cd51a8ab37807a3eb772e025e603ab1b648d3a8334cd9eb4ca56497985c95e732ea3e4daf193d0ee0f0789d6dadc7c3cb4ff136d42c52ddc2d6b1197e8ca17918164fe33b337d51b7f08f2eb23ab9ca082e1b1c72df6409292accf6a10090b7073bfbbfa2cc8e6707d013e862fcefe306f0dd024e58bdc4c39614ec9b35fdb2c2bb8ce878ce5c35aa06f3655f269d5570423997a3c3cad1af09438639e354aab017daa087bd019bc8f25fbf18fbe4623e38a8e02de7fffb90fe5f3008264281657e0a5620c130c35fbc652201c358349edd8cfa1500c03e7f884bee35b2a0834121d5dd8baa920d5de8e795d25c05527727d5f42c553983a89723c6a44fe17dda806639646707d94c011691a3dc686e1fbc4bcac63ba70d4c3f8435f185171b23e00662393818457f9375c6d383aa40a7748a9084a4888c69805f84ff4083f0208c2f2b919d39eb8a7cdce8a6519cf63/31/1920x1080_6709560/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR CLUB" tvg-logo="https://files.catbox.moe/alsi4a.png" group-title="CANAIS 24h",NICK JUNIOR CLUB
-https://gerenciar.vivatele.com:443/viva_padrao/viva2384/121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Pai Eterno" tvg-logo="https://files.catbox.moe/ft4xeb.png" group-title="CANAIS",Pai Eterno
+#EXTINF:-1 tvg-id="" tvg-name="Pai Eterno" tvg-logo="https://files.catbox.moe/ft4xeb.png" group-title="CANAIS ABERTOS",Pai Eterno
 https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1774747427.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PATRULHA CANINA" tvg-logo="https://files.catbox.moe/kocjnz.png" group-title="CANAIS 24h",PATRULHA CANINA
 https://gerenciar.vivatele.com:`,443/viva_padrao/viva2384/86.m3u8
 #EXTINF:-1 tvg-id="TVRAHD" tvg-name="RA-TIM-BUM" tvg-logo="https://files.catbox.moe/i9tax3.png" group-title="CANAIS ABERTOS",RA-TIM-BUM
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/15.m3u8
@@ -79,7 +70,13 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/17.m3u8
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
 #EXTINF:-1 tvg-id="CNLBRSH" tvg-name="TV BRASIL" tvg-logo="https://files.catbox.moe/j7vq1f.png" group-title="CANAIS ABERTOS",TV BRASIL
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/18.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="https://files.catbox.moe/cpoorz.png" group-title="CANAIS",TV Evangelizar
+#EXTINF:-1 tvg-id="" tvg-name="TV Evangelizar" tvg-logo="https://files.catbox.moe/cpoorz.png" group-title="CANAIS ABERTOS",TV Evangelizar
 https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
 #EXTINF:-1 tvg-id="NOVOTHD" tvg-name="TV NOVO TEMPO" tvg-logo="https://files.catbox.moe/cgffgn.png" group-title="CANAIS ABERTOS",TV NOVO TEMPO
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOB ESPONJA" tvg-logo="https://files.catbox.moe/uul0th.png" group-title="CANAIS 24h",BOB ESPONJA
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICK JUNIOR CLUB" tvg-logo="https://files.catbox.moe/alsi4a.png" group-title="CANAIS 24h",NICK JUNIOR CLUB
+https://gerenciar.vivatele.com:443/viva_padrao/viva2384/121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PATRULHA CANINA" tvg-logo="https://files.catbox.moe/kocjnz.png" group-title="CANAIS 24h",PATRULHA CANINA
+https://gerenciar.vivatele.com:`,443/viva_padrao/viva2384/86.m3u8

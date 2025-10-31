@@ -82,3 +82,5 @@ https://gerenciar.vivatele.com:443/viva_padrao/viva2384/86.m3u8
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/121.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PEPPA PIG" tvg-logo="https://files.catbox.moe/a8vj7d.png" group-title="CANAIS 24h",PEPPA PIG
 https://gerenciar.vivatele.com:`,443/viva_padrao/viva2384/87.m3u8
+#EXTINF:-1 tvg-id="CANAGRO" tvg-name="JETSONS" tvg-logo="https://files.catbox.moe/a8vj7d.png" group-title="CANAIS 24h",JETSONS TV
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
